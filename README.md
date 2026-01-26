@@ -1,1 +1,1 @@
-"# ganesya-pixel-art" 
+# ganesya-pixel-art
